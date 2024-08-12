@@ -22,7 +22,3 @@ Finally, in order to compare the performance of the model with other machine lea
 Veer Kapadia; Engineering Science, University of Toronto
 
 Anil Kumar Korupoju; Research and Development Division, Indian Register of Shipping
-
-Arun Shankar Vilwathilakam; Research and Development Division, Indian Register of Shipping
-
-Dr. Asokendu Samanta; Research and Development Division, Indian Register of Shipping
