@@ -16,7 +16,7 @@ The final stage of preparing the training dataset involves using fuzzy logic to 
 
 Having obtained the final dataset, the next steps are to split the dataset, train the SAINT model by running the [`5_Pira_SAINT_model_training.ipynb`](./5_Pira_SAINT_model_training.ipynb) notebook. This notebook also allows for model pretraining, hyperparameter tuning and visualising the performance results.
 
-Finally, in order to compare the performance of the model with other machine learning models, consult the notebook [`6_Comparison_VCRA_MLP.ipynb`](./6_Comparison_VCRA_MLP.ipynb).
+Finally, in order to compare the performance of the model with other machine learning models, consult the notebook [`6-comparison-vcra-mlp.ipynb`](./6-comparison-vcra-mlp.ipynb).
 
 # Contributors
 Veer Kapadia; Engineering Science, University of Toronto
