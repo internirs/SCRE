@@ -1,4 +1,4 @@
-# Ship Collision Risk Assessment using AIS and Weather Data through Fuzzy Logic and Deep Learning
+# Ship Collision Risk Evaluation using AIS and Weather Data through Fuzzy Logic and Deep Learning
 
 ### Official Python implementation of the SAINT deep learning model on the Piraeus AIS Dataset.
 
