@@ -12,13 +12,12 @@ The next step of the data pre-processing stage involves calculating the basic co
 
 The notebook [`3-pira-enfactors.ipynb`](./3-pira-enfactors.ipynb) contains the code to pre-process the weather dataset and calculate the enfactor index which considers the weather parameters at both the own ship and the target ship.
 
-The final stage of preparing the training dataset involves using fuzzy logic to combine the basic collision risk index and enfactor index to obtain the Enhanced CRI with Weather (ECRI-W). This section of code can be executed by running the notebook [`4-pira-ecriw-fuzzy-logic.ipynb`](./4-pira-ecriw-fuzzy-logic.ipynb).
+The final stage of preparing the training dataset involves using fuzzy logic to combine the basic collision risk index and enfactor index to obtain the Enhanced CRI with Weather (ECRI-W). This section of code can be executed by running the notebook [`4-pira-ecriw-fuzzy-logic.ipynb`](./4-pira-ecriw-fuzzy-logic.ipynb). Additionally, code to evaluate correlation between the features of the dataset is available in ['correlation.ipynb'](./correlation.ipynb).
 
 Having obtained the final dataset, the next steps are to split the dataset, train the SAINT model by running the [`5-pira-saint-model-training.ipynb`](./5-pira-saint-model-training.ipynb) notebook. This notebook also allows for model pretraining, hyperparameter tuning and visualising the performance results.
 
-Finally, in order to compare the performance of the model with MLP Regressor model, consult the notebook [`6-comparison-scre-mlp.ipynb`](./6-comparison-scre-mlp.ipynb).
+Finally, in order to compare the performance of the model with MLP Regressor model, consult the notebook [`6-comparison-scre-mlp.ipynb`](./6-comparison-scre-mlp.ipynb) and to compare with SVM, RVM and MLP models consult [`6-comparison-scre-svm-rvm-mlp.ipynb`](./6-comparison-scre-svm-rvm-mlp.ipynb).
 
 # Contributors
 Veer Kapadia; Engineering Science, University of Toronto
-
 Anil Kumar Korupoju; Research and Development Division, Indian Register of Shipping
