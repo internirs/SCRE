@@ -20,4 +20,5 @@ Finally, in order to compare the performance of the model with MLP Regressor mod
 
 # Contributors
 Veer Kapadia; Engineering Science, University of Toronto
+
 Anil Kumar Korupoju; Research and Development Division, Indian Register of Shipping
